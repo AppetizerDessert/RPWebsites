@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RPWebsites</string>
+    <string-array name="spinner_cat1">
+        <item>RP</item>
+        <item>SOI</item>
+    </string-array>
+    <string-array name="spinner_cat2">
+        <item>Homepage</item>
+        <item>Student Life</item>
+    </string-array>
+    <string-array name="spinner_cat3">
+        <item>DMSD</item>
+        <item>DIT</item>
+    </string-array>
+</resources>
